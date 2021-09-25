@@ -21,6 +21,7 @@ My hobbies include **digital painting**, **programming**, and **2d/3d animation*
 ## *Favorite Quote*
 One of my favorite quotes comes from my favorite book, *Dune*:
 >Fear is the mind killer. Fear is the little-death that brings total obliteration.
+
 ![Also really excited to see the 2021 movie](https://images-na.ssl-images-amazon.com/images/I/41m+6YgCmrL._SX322_BO1,204,203,200_.jpg)
 
 *Other favorite stuff can be found [here.](FAVORITES.md)*
